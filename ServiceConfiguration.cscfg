@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ServiceConfiguration serviceName="AzureSample" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration">
+  <Role name="DBDCRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="DiagnosticsConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="DbDotComConnectionString" value="UserName=;password=;token=;endpoint=" />
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>
