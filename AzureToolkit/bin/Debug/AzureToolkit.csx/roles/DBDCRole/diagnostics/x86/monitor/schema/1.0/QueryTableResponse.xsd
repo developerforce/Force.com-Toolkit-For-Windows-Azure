@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:simpleType name="DateTimeType">
+    <xs:restriction base="xs:dateTime">
+      <!-- enforce the time to be in UTC -->
+      <xs:pattern value=".*Z" />
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="RowColumnsType">
+    <xs:sequence>
+      <xs:element name="Column" type="xs:string" maxOccurs="unbounded" />
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="RowType">
+    <xs:sequence>
+      <xs:element name="UTCTime" type="DateTimeType" minOccurs="1" maxOccurs="1"/>
+      <xs:element name="Columns" type="RowColumnsType" minOccurs="1" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="RowDataType">
+    <xs:sequence>
+      <xs:element name="Row" type="RowType" maxOccurs="unbounded" />
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="ColumnType">
+    <xs:attribute name="type" type="xs:string" use="required" />
+  </xs:complexType>
+
+  <xs:complexType name="ColumnDataType">
+    <xs:sequence>
+      <xs:element name="Column" type="ColumnType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="QueryMessageType">
+    <xs:sequence>
+      <xs:element name="ColumnData" type="ColumnDataType" minOccurs="1" maxOccurs="1" />
+      <xs:element name="Rows" type="RowDataType" minOccurs="1" maxOccurs="1" />
+    </xs:sequence>
+    <xs:attribute name="version" type="xs:string" use="required"/>
+  </xs:complexType>
+
+  <xs:element name="QueryMessage" type="QueryMessageType"/>
+
+</xs:schema>

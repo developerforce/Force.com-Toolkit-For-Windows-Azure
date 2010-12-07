@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RoleModel name="DBDCRole" version="1.0">
+  <Properties>
+    <Property name="RoleType" value="Web" />
+    <Property name="RoleName" value="DBDCRole" />
+    <Property name="ProjectName" value="DBDCRole" />
+    <Property name="Configuration" value="Debug" />
+    <Property name="Platform" value="AnyCPU" />
+    <Property name="OutputDir" value="C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\obj\Debug\DBDCRole\" />
+    <Property name="EntryPoint" value="DBDCRole.dll" />
+    <Property name="SourceDir" value="C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DBDCRole\" />
+    <Property name="RoleTargetFramework" value="v4.0" />
+    <Property name="OriginalItemSpec" value="C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\AzureToolkit.ccproj" />
+    <Property name="MSBuildSourceProjectFile" value="C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\AzureToolkit.ccproj" />
+    <Property name="MSBuildSourceTargetName" value="ResolveSingleWebRoleReference" />
+    <Property name="TargetFrameworkVersion" value="v4.0" />
+    <Property name="TargetRuntimeVersion" value="v4.0" />
+  </Properties>
+</RoleModel>
