@@ -22,3 +22,9 @@ C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureSample\DatabaseDotCom\b
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureSample\DatabaseDotCom\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureSample\DatabaseDotCom\obj\Debug\ClassLibrary1.dll
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureSample\DatabaseDotCom\obj\Debug\ClassLibrary1.pdb
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DatabaseDotCom\bin\Debug\DatabaseDotCom.dll.config
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DatabaseDotCom\bin\Debug\DatabaseDotCom.dll
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DatabaseDotCom\bin\Debug\DatabaseDotCom.pdb
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DatabaseDotCom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DatabaseDotCom\obj\Debug\DatabaseDotCom.dll
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DatabaseDotCom\obj\Debug\DatabaseDotCom.pdb

@@ -9,3 +9,14 @@ C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureSample\DBDCRole\obj\Deb
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureSample\DBDCRole\obj\Debug\DBDCRole.pdb
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureSample\DBDCRole\bin\ClassLibrary1.dll
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureSample\DBDCRole\bin\ClassLibrary1.pdb
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DBDCRole\bin\DBDCRole.dll
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DBDCRole\bin\DBDCRole.pdb
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DBDCRole\bin\DatabaseDotCom.dll
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DBDCRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DBDCRole\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DBDCRole\bin\DatabaseDotCom.pdb
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DBDCRole\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DBDCRole\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DBDCRole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DBDCRole\obj\Debug\DBDCRole.dll
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\DBDCRole\obj\Debug\DBDCRole.pdb

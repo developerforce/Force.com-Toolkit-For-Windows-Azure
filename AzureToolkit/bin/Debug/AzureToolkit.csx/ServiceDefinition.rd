@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="AzureSample" generation="1" functional="0" release="0" Id="51bd1ca0-a2a7-44d7-a790-a401570ca06f" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
+<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="AzureSample" generation="1" functional="0" release="0" Id="17fefb2f-9d10-46b4-858d-a8ad917f7393" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
   <groups>
     <group name="AzureSampleGroup" generation="1" functional="0" release="0">
       <componentports>
@@ -77,9 +77,9 @@
     </group>
   </groups>
   <implements>
-    <implementation Id="2baf8e46-817f-4265-9c35-b239f001bb4d" ref="Microsoft.RedDog.Contract\ServiceContract\AzureSampleContract@ServiceDefinition">
+    <implementation Id="68060b33-dc12-40b1-b46a-cd024da46de4" ref="Microsoft.RedDog.Contract\ServiceContract\AzureSampleContract@ServiceDefinition">
       <interfacereferences>
-        <interfaceReference Id="42327b50-76cd-4db6-80b3-a8d47ae320a3" ref="Microsoft.RedDog.Contract\Interface\DBDCRole:HttpIn@ServiceDefinition">
+        <interfaceReference Id="0d273697-beee-41f3-b37c-9ba216fc2a01" ref="Microsoft.RedDog.Contract\Interface\DBDCRole:HttpIn@ServiceDefinition">
           <inPort>
             <inPortMoniker name="/AzureSample/AzureSampleGroup/DBDCRole:HttpIn" />
           </inPort>

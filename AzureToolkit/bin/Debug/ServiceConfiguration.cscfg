@@ -4,7 +4,7 @@
     <Instances count="1" />
     <ConfigurationSettings>
       <Setting name="DiagnosticsConnectionString" value="UseDevelopmentStorage=true" />
-      <Setting name="DbDotComConnectionString" value="UserName=joshbirk@developerforce.com;password=Cassius30;token=;endpoint=" />
+      <Setting name="DbDotComConnectionString" value="UserName=;password=;token=;endpoint=" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>

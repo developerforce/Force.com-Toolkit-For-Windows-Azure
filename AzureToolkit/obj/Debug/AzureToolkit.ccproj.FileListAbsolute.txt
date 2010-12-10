@@ -8,8 +8,6 @@ C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\bi
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\bin\Debug\AzureToolkit.csx\roles\DBDCRole\approot\Account\Login.aspx
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\bin\Debug\AzureToolkit.csx\roles\DBDCRole\approot\Account\Register.aspx
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\bin\Debug\AzureToolkit.csx\roles\DBDCRole\approot\Account\Web.config
-C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\bin\Debug\AzureToolkit.csx\roles\DBDCRole\approot\bin\ClassLibrary1.dll
-C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\bin\Debug\AzureToolkit.csx\roles\DBDCRole\approot\bin\ClassLibrary1.pdb
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\bin\Debug\AzureToolkit.csx\roles\DBDCRole\approot\bin\DBDCRole.dll
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\bin\Debug\AzureToolkit.csx\roles\DBDCRole\approot\bin\DBDCRole.pdb
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\bin\Debug\AzureToolkit.csx\roles\DBDCRole\approot\bin\Microsoft.WindowsAzure.Diagnostics.dll
@@ -58,8 +56,6 @@ C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\ob
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\obj\Debug\DBDCRole\Account\Login.aspx
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\obj\Debug\DBDCRole\Account\Register.aspx
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\obj\Debug\DBDCRole\Account\Web.config
-C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\obj\Debug\DBDCRole\bin\ClassLibrary1.dll
-C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\obj\Debug\DBDCRole\bin\ClassLibrary1.pdb
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\obj\Debug\DBDCRole\bin\DBDCRole.dll
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\obj\Debug\DBDCRole\bin\DBDCRole.pdb
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\obj\Debug\DBDCRole\bin\Microsoft.WindowsAzure.Diagnostics.dll
@@ -74,3 +70,7 @@ C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\ob
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\obj\Debug\DBDCRole\Site.Master
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\obj\Debug\DBDCRole\Styles\Site.css
 C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\obj\Debug\DBDCRole\Web.config
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\bin\Debug\AzureToolkit.csx\roles\DBDCRole\approot\bin\DatabaseDotCom.dll
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\bin\Debug\AzureToolkit.csx\roles\DBDCRole\approot\bin\DatabaseDotCom.pdb
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\obj\Debug\DBDCRole\bin\DatabaseDotCom.dll
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\AzureToolkit\AzureToolkit\obj\Debug\DBDCRole\bin\DatabaseDotCom.pdb
