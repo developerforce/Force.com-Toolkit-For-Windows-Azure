@@ -1,3 +1,3 @@
 Azure is Microsoft's platform as a service offering, allowing developers to use their existing .Net skills in the cloud. With the Azure Toolkit, Force.com developers can leverage both platforms to interconnect their data. The toolkit is designed to be included within existing Azure applications, allowing API calls to a Salesforce.com org. 
 
-More information can be found at http://wiki.developerforce.com/index.php/Getting_Started_With_The_Azure_Toolkit.
+More information can be found at http://wiki.developerforce.com/index.php/Getting_Started_with_the_Force.com_Toolkit_for_Azure
