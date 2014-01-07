@@ -178,10 +178,15 @@ namespace DatabaseDotCom
             private DBCObject[] MakeRecords(DBDCReference.sObject[] sObjects)
             {
                 List<DBCObject> objs = new List<DBCObject>();
-                foreach (DBDCReference.sObject obj in sObjects)
+
+                if (sObjects != null)
                 {
-                    objs.Add(new DBCObject(obj));
+                    foreach (DBDCReference.sObject obj in sObjects)
+                    {
+                        objs.Add(new DBCObject(obj));
+                    }
                 }
+
                 return objs.ToArray();
             }
             public DataSet GetDataSet()
